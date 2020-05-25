@@ -1,19 +1,22 @@
 # boon-qr-scanner
 
 
-This is the QR Scanner client for Boon - Inventory Management System
+## This is the QR Scanner client for Boon - Inventory Management System
 
-	# https://github.com/kenocvr/boon
-
-
+Boon https://github.com/kenocvr/boon
+  
+  
 
 ## Install
 
-	`npm install`
+	npm install
 
 
 ## Run
 
-	`npm run`
+	npm run
+  
+  
+  ### This Scanner is based on zxing-js/ngx-scanner https://github.com/zxing-js/ngx-scanner
 
 
