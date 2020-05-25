@@ -35,7 +35,7 @@
   <section class="results" *ngIf="qrResultString">
     <div>
       <small>Result</small>
-      <strong>{{ qrResultString }}</strong>
+      <h1><a href = {{qrResultString}}> GO </a></h1>
     </div>
     <button mat-icon-button (click)="clearResult()">&times;</button>
   </section>
